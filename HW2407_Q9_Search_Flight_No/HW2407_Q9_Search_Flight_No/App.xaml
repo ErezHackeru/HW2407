@@ -1,0 +1,9 @@
+﻿<Application x:Class="HW2407_Q9_Search_Flight_No.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:HW2407_Q9_Search_Flight_No"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
